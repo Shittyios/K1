@@ -128,4 +128,4 @@ appendix: Obviously, ∀x ∈ ℝ^n, ∃y ∈ ℝ^m, ∴ (∂f/∂x × ∂g/∂y
 ∀x, y ∈ ℝ, x + y = y + x, x × y = y × x, xʸ = yˣ
 
 
-*not a real paper, just made it for fun lol*
+*not a paper, just made it for fun lol*
